@@ -15,7 +15,7 @@
 - 담당교수
   - 1주차 : 김영곤 (younggon2.kim@gmail.com)
 
-| week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
+| Week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1-1 | TBD |  | |  |  |
 | 1-2 | TBD |  | |  |  |
