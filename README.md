@@ -21,7 +21,7 @@
   - 11 주차 : 이현훈 (hhoon@snu.ac.kr)
   - 12 주차 : 김영곤 (younggon2.kim@gmail.com)
 
-| Week | Cource Contents | LectureNote | Date | Code | HomeWork | Prof. |
+| Week | Cource Contents | LectureNote | Code | Date | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Python 기본 문법 <br> Python 계산기 개발 <br> Python 별찍기 게임|  | |  | | Pf. 김영곤 |
 | 2 | Machine learning 기초 <br> Deep learning 기초 |  | |  | | Pf. 김영곤 |
