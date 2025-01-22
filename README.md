@@ -24,7 +24,7 @@
 | Week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Python - 기본 문법 <br> Python - 계산기 개발 <br> Python - 별찍기 게임|  | |  | | Pf. 김영곤 |
-| 2 | Machine learning <br> Deep learning |  | |  | | Pf. 김영곤 |
+| 2 | Machine learning 기초 <br> Deep learning 기초 |  | |  | | Pf. 김영곤 |
 | 3 | 정형 데이터 분석 1 |  | |  |  | Pf. 김광수 |
 | 4 | 정형 데이터 분석 2 |  | |  |  | Pf. 김광수 |
 | 5 | 정형 데이터 분석 3 (MIMIC 소개 및 분석) |  | |  |  | Pf. 이현훈 |
