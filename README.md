@@ -14,6 +14,12 @@
 - 수업시간: TBD. 
 - 담당교수
   - 1주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 2주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 8주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 9주차 : 양현림 (hlyang@snu.ac.kr)
+  - 10주차 : 양현림 (hlyang@snu.ac.kr)
+  - 11주차 : 양현림 (hlyang@snu.ac.kr)
+  - 12주차 : 이현훈 (hhoon@snu.ac.kr)
 
 | Week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
