@@ -13,13 +13,13 @@
 ## 강의계획서
 - 수업시간: TBD. 
 - 담당교수
-  - 1~2주차 : 김영곤 (younggon2.kim@gmail.com)
-  - 3~4주차 : 김광수 (bmilab.snuh@gmail.com)
-  - 5주차 : 이현훈 (hhoon@snu.ac.kr)
-  - 6~8주차 : 양현림 (hlyang@snu.ac.kr)
-  - 9~10주차 : 김영곤 (younggon2.kim@gmail.com)
-  - 11주차 : 이현훈 (hhoon@snu.ac.kr)
-  - 12주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 1~2 주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 3~4 주차 : 김광수 (bmilab.snuh@gmail.com)
+  - 5 주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 6~8 주차 : 양현림 (hlyang@snu.ac.kr)
+  - 9~10 주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 11 주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 12 주차 : 김영곤 (younggon2.kim@gmail.com)
 
 | Week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
