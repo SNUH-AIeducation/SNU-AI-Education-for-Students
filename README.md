@@ -13,7 +13,7 @@
 ## 강의계획서
 - 수업시간: TBD. 
 - 담당교수
-  - 1주차 : 김영곤(younggon2.kim@gmail.com)
+  - 1주차 : 김영곤 (younggon2.kim@gmail.com)
 
 | week | Cource Contents | LectureNote | Date | Video | HomeWork |
 |:---:|:---:|:---:|:---:|:---:|:---:|
