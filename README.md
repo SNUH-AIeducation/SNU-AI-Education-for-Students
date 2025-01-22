@@ -23,8 +23,8 @@
 
 | Week | Cource Contents | LectureNote | Code | Date | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 4 | Python 기본 문법 <br> Python 계산기 개발 <br> Python 별찍기 게임| [PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%201/Python_%EA%B8%B0%EC%B4%88_DY01.pdf) | |  | | Pf. 김영곤 |
-| 5 | Machine learning 기초 <br> Deep learning 기초 | [PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%202/Python_ML_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_DY01.pdf) <br>[PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%202/Python_DL_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_Part1_DY01.pdf)<br>[PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%202/Python_DL_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_Part2_DY01.pdf)| |  | | Pf. 김영곤 |
+| 4 | Python 기본 문법 <br> Python 계산기 개발 <br> Python 별찍기 게임| [PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%204/Python_%EA%B8%B0%EC%B4%88_DY01.pdf) | |  | | Pf. 김영곤 |
+| 5 | Machine learning 기초 <br> Deep learning 기초 | [PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%205/Python_ML_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_DY01.pdf) <br>[PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%205/Python_DL_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_Part1_DY01.pdf)<br>[PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%205/Python_DL_%EA%B0%9C%EB%85%90%EA%B3%BC_%EC%8B%A4%EC%8A%B5_Part2_DY01.pdf)| |  | | Pf. 김영곤 |
 | 6 | 정형 데이터 분석 1 |  | |  |  | Pf. 김광수 |
 | 7 | 정형 데이터 분석 2 |  | |  |  | Pf. 김광수 |
 | 8 | 정형 데이터 분석 3 <br> (MIMIC 소개 및 분석) | [PDF](https://github.com/SNUH-AIeducation/SNU-AI-Education-for-Students/blob/main/LectureNotes/Week%205/%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D3(MIMIC).pdf) | |  |  | Pf. 이현훈 |
