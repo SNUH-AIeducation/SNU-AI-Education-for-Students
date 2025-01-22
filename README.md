@@ -1,7 +1,7 @@
 # AI Education for Students
 
 ## 과목정보
-- 인공지능의 기초
+- 의료와 데이터사이언스
   
 ## 시험정보
 - 기말고사 TBD.
