@@ -15,11 +15,16 @@
 - 담당교수
   - 1주차 : 김영곤 (younggon2.kim@gmail.com)
   - 2주차 : 김영곤 (younggon2.kim@gmail.com)
-  - 8주차 : 이현훈 (hhoon@snu.ac.kr)
-  - 9주차 : 양현림 (hlyang@snu.ac.kr)
-  - 10주차 : 양현림 (hlyang@snu.ac.kr)
-  - 11주차 : 양현림 (hlyang@snu.ac.kr)
-  - 12주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 3주차 : 김광수 (bmilab.snuh@gmail.com)
+  - 4주차 : 김광수 (bmilab.snuh@gmail.com)
+  - 5주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 6주차 : 양현림 (hlyang@snu.ac.kr)
+  - 7주차 : 양현림 (hlyang@snu.ac.kr)
+  - 8주차 : 양현림 (hlyang@snu.ac.kr)
+  - 9주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 10주차 : 김영곤 (younggon2.kim@gmail.com)
+  - 11주차 : 이현훈 (hhoon@snu.ac.kr)
+  - 12주차 : 김영곤 (younggon2.kim@gmail.com)
 
 | Week | Cource Contents | LectureNote | Date | Video | HomeWork | Prof. |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
